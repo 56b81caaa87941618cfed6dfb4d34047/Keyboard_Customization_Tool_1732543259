@@ -16,5 +16,20 @@
         "metadata": {
             "component_id": "Hero1732543263"
         }
+    },
+    {
+        "id": "978af41c-6fe6-4055-b253-fbdbc6567e95",
+        "timestamp": "2024-11-25T14:49:23.237773Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_Nr8T73vTWF3esyBJqxlRoFkc",
+            "function": {
+                "arguments": "{\"component_id\":\"Hero1732543263\",\"sc_address\":\"0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"Modify the frontend to support interactions with the specified smart contract on Ethereum.\",\"acknowledgement_message\":\"Editing the component to support the smart contract on Ethereum...\"}",
+                "name": "EditSmartContractFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
