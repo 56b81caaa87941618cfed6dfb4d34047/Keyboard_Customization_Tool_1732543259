@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "KeyCraft",
+        "HERO_HEADING_TEXT": "Type Your Way to Perfection",
+        "HERO_SUBHEADING_TEXT": "Discover the art of efficient typing with our cutting-edge keyboard solutions",
+        "FOOTER_TEXT": "\u00a9 2023 KeyCraft. Elevating your typing experience, one keystroke at a time."
+    }
+}
